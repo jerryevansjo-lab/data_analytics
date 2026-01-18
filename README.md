@@ -1,3 +1,3 @@
-# vedema.github.io
+olatunji Oladeji
 
-Week 0 setup completed by Vivian Edema
+Week 0 setup completed by Olatunji Oladeji
