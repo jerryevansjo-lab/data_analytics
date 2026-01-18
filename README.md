@@ -1,2 +1,3 @@
-# data_analytics
-This is my data analytics project
+# vedema.github.io
+
+Week 0 setup completed by Vivian Edema
